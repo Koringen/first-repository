@@ -1,14 +1,20 @@
 .contacts-description {
-    padding-left: 20vw;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 30px;
+    font-size: 3vh;
     padding-top: 12vw;
+    display: flex;
+    width: 100vw;
 }
 
-.contacts-list {
-    list-style-type: none;
-}
 
 li {
     margin-left: 1.3em;
+    list-style-type: none;
 }
+
+
+ul {
+    width: max-content;
+    margin: 0px;
+}
+
