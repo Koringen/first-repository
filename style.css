@@ -1,0 +1,131 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+}
+
+body {
+    background-image: url(background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}   
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.container {
+    display: flex;
+    height: 70px;
+    width: 70%;
+    margin: auto;
+    margin-top: 10px;
+    font-weight: 500;
+}
+
+.container div {
+    text-align: center;
+    padding-top: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.c0 {
+    width: 9.3%;
+}
+
+.logo {
+    height: 100%;
+}
+
+.c1 {
+    width: 7.4%;
+}
+
+.c2 {
+    width: 7.4%;
+}
+
+.about {
+    border: 2px solid black
+}
+
+.c3 {
+    width: 9.3%;
+}
+
+.c4 {
+    width: 11.1%;
+}
+
+.c5 {
+    width: 7.4%;
+}
+
+.c6 {
+    width: 9.3%;
+}
+
+.c7 {
+    width: 9.3%;
+}
+
+.c8 {
+    width: 6.9%;
+}
+
+.c9 {
+    width: 11.6%;
+    font-size: 15px;
+}
+
+.c10 {
+    width: 3.7%;
+}
+
+.pinterest-logo {
+    height: 35px;
+    width: 30px;
+}
+
+.c11 {
+    width: 3.7%;   
+}
+
+.facebook-logo {
+    height: 40px;
+    width: 40px;
+}
+
+.c12 {
+    width: 3.7%; 
+}
+
+.instagram-logo {
+    height: 37px;
+    width: 37px;
+}
+
+.name-container {
+    font-size: 80px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.description-container {
+    font-size: 30px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.name-and-description-container {
+    text-align: center;
+    margin-top: 10vh;
+} 
+
+.order-button {
+    width: 130px;
+    height: 40px;
+    border-radius: 3px;
+    margin-top: 30px;
+    background-color: bisque;
+    border: 0px;
+}
