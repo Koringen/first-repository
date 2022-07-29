@@ -1,4 +1,4 @@
-This is my first project
+This is my first project.
 Prototype:
 ![image](https://github.com/Koringen/first-repository/blob/master/Maket.jpg)
 This is my result:
