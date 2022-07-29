@@ -1,0 +1,11 @@
+.partners-desctiption {
+    display: block;
+}
+
+.text {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    margin-left: 350px;
+    padding-top: 25vh;
+    line-height: 80px;
+}
